@@ -26,3 +26,6 @@ P1 = 12 # ma w sobie wielką literę
 if = 23 # if jest składnią pythona
 moja nazwa = "pociag" # spacja w nazwie
 ```
+
+## Inne
+Jeżeli zaczynamy kasować sobie literki pisząc, a *znak pisania* nie jest pionową pałeczką tylko prostokącikiem to należy kliknąć na klawisz **insert**, na prawo od *Backspace*.
