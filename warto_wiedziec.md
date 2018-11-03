@@ -28,4 +28,6 @@ moja nazwa = "pociag" # spacja w nazwie
 ```
 
 ## Inne
-Jeżeli zaczynamy kasować sobie literki pisząc, a *znak pisania* nie jest pionową pałeczką tylko prostokącikiem to należy kliknąć na klawisz **insert**, na prawo od *Backspace*.
+
+* Jeżeli zaczynamy kasować sobie literki pisząc, a *znak pisania* nie jest pionową pałeczką tylko prostokącikiem to należy kliknąć na klawisz **insert**, na prawo od *Backspace*.
+* Sprawdź [markdown](https://pl.wikipedia.org/wiki/Markdown) jeżeli interesuje Cię w jaki sposób tak formatować plik
