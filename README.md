@@ -3,7 +3,9 @@
 W tym repozytorium znajdują się materiały pomocnicze do kursu programowania w pythonie dla początkujących.
 Zajęcia odbywają się w sali **124 Gmachu Chemii PW**, w terminach:
 
-1. 27 października ::done::
+Stąd ściągniesz pythona: https://www.python.org/downloads/
+
+1. 27 października ::heavycheckmark::
 2. 3 listopada
 3. 10 listopada
 4. 17 listopada
