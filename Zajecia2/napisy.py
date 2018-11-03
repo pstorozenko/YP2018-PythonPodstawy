@@ -21,3 +21,9 @@ else:
     print("W zdaniu")
     print(dlugi_napis)
     print("NIE wystepuje slowo kot")
+
+if dlugi_napis.startswith("Ala") == True:
+    print("Ta Ala to często jednak pojawia się w przykładach")
+
+if dlugi_napis.endswith("kota") == True:
+    print("Ten kot to ma fajnie")
