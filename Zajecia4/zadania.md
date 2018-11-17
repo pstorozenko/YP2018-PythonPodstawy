@@ -6,6 +6,16 @@
 [Lista](https://docs.python.org/3/library/stdtypes.html#list)
 Napisz program, który:
 
+```python
+d = {}
+d["Piotr"] = 23
+d["Asia"] = 25
+d["Anita"] = 18
+d["Romek"] = 12
+d["Atomek"] = 14
+d["Janek"] = 16
+```
+
 1. Wyświetli wszystkie elementy słownika.
 2. Połączy dwa słowniki w jeden.
 3. Zsumuje wszystkie wartości w słowniku
