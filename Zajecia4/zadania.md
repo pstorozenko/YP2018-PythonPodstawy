@@ -16,7 +16,7 @@ d2 = {}
 d2["Atomek"] = 14
 d2["Janek"] = 16
 l1 = [1, 5, 6, 23, 12, 1, 41]
-l2 = ['Poniedziałek', 'Wtorek', 'Środy', 'Czwartek', 'Piątek', 'Soboty']
+l2 = ['Poniedziałek', 'Wtorek', 'Środy', 'Czwartek', 'Piątek', 'Sobota', 'Niedziela']
 ```
 
 1. Wyświetli wszystkie elementy słownika `d1`.
