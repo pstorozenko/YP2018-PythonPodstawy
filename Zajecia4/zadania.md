@@ -1,4 +1,4 @@
-# Kroki, słowniki, zbiory i inne
+# Krotki, słowniki, zbiory i inne
 
 [Słownik](https://docs.python.org/3/library/stdtypes.html#dict)
 [Zbiór](https://docs.python.org/3/library/stdtypes.html?highlight=set#set)
