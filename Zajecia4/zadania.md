@@ -7,13 +7,14 @@
 Napisz program, który:
 
 ```python
-d = {}
-d["Piotr"] = 23
-d["Asia"] = 25
-d["Anita"] = 18
-d["Romek"] = 12
-d["Atomek"] = 14
-d["Janek"] = 16
+d1 = {}
+d1["Piotr"] = 23
+d1["Asia"] = 25
+d1["Anita"] = 18
+d1["Romek"] = 12
+d2 = {}
+d2["Atomek"] = 14
+d2["Janek"] = 16
 ```
 
 1. Wyświetli wszystkie elementy słownika.
