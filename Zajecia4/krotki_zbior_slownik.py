@@ -5,9 +5,21 @@ print(t)
 print(t[0])
 print(t[1])
 
+print("******************")
 # Zbiory set
 s = set([(0,0), (1,1), (2,0)])
 print(s)
+for e in s:
+    x = e[0]
+    y = e[1]
+    print("Element", e)
+    print("Pierwsza współrzędna to", x)
+    print("Druga współrzędna to", y)
+    print()
+    
+
+
+print("******************")
 s.add((3,1))
 s.add("Pomidor")
 print(s)
