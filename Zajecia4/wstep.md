@@ -27,6 +27,7 @@ Na przykład dla
 ```
 Wypisz
 ```
+1
 7
 49
 343
