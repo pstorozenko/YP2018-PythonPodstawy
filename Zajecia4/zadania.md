@@ -28,7 +28,7 @@ l2 = ['Poniedziałek', 'Wtorek', 'Środy', 'Czwartek', 'Piątek', 'Sobota', 'Nie
 7. Stworzy zbiór `s1` złożony z liczb od 0 do 10.
 8. Stworzy zbiór `s2` złożony ze słów `{'mielony', 'schabowy', 'jajecznica', falafel} oraz {'tosty', 'omlet', 'jajecznica', 'falafel'}`. Wyznacz sumę tych zbiorów, różnicę oraz symetryczną różnicę.
 9. Znajdzie maksimum i minimum z wartości w zbiorze `s1`.
-10. Stworzy ktorkę z elementów 11, "listopada", 2018.
+10. Stworzy krotkę z elementów 11, "listopada", 2018.
 11. Znajdzie i wypisze na ekran elementy, który powtarzają się w krotce `(1,2,11,1,1,4)`.
 12. Usunie puste krotki z listy krotek, dla wejścia `[(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]` zwróci `[('',), ('a', 'b'), ('a', 'b', 'c'), 'd']`.
 
