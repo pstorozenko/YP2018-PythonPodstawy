@@ -14,7 +14,7 @@ Dzień dobry Pani
 
 ## Część 2
 Zapytaj użytkownika 5 razy o imię jakiejś osoby i jej ulubioną potrawę.
-Następnie 2 razy zapytaj użytkownika, czyją ulubioną potrawę chciałby poznać. Program odpowiednio informuje jaka jest ta potrawa, bądź informuje, że jej nie zna.
+Następnie 2 razy zapytaj użytkownika, czyją ulubioną potrawę chciałbyś poznać. Program odpowiednio informuje jaka jest ta potrawa, bądź informuje, że jej nie zna.
 
 Przykład:
 ```
