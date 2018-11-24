@@ -20,4 +20,4 @@ Napisz funkcję, która:
 14. `sito_erastotenesa(n)`, która zwróci listę wszystkich liczb pierwszych z zakresu od 2 do n.
 15. `bin_search(l, x)`, która zwróci indeks pod którym znajduje się `x` w liście `l` , lub -1 gdy nie występuje. Lista `l` jest posortowana.
 
-![Trójkąt Pascala](pascal-triangle.png)
+![Trójkąt Pascala](pascal-traingle.png)
