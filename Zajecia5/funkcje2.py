@@ -17,3 +17,24 @@ def moj_max(a, b, c):
         return c
 
 print(moj_max(3,4,5))
+
+def moja_transofrmacja(x):
+    return 3 * x + 1 # z reguły tak robimy
+
+def moja_transofrmacja2(x):
+    print(3 * x + 1) # tak raczej nie
+
+
+print(moja_transofrmacja(3))
+
+l = []
+for i in range(5):
+    l.append(moja_transofrmacja(i))
+
+print(l)
+
+l2 = []
+for i in range(5):
+    l2.append(moja_transofrmacja2(i))
+
+print(l2)
