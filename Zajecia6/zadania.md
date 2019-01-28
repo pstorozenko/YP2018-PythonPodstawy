@@ -9,8 +9,7 @@ Do klasy `Punkt` dodaj metody:
 
 Do klasy `Trojkat` dodaj metody:
 
-* `wypisz` - w ładnym formacie wypisze opis trójkątu na ekran
-* konstruktor, tworzący trójkąt na podstawie 6 współrzędnych
+* `wypisz` - w ładnym formacie wypisze opis trójkąta na ekran
 * `obwod` - zwróci obwód trójkąta
 * `czy_w_srodku` - sprawdzi czy punkt znajduje się w środku trójkąta czy poza
 http://www.math.us.edu.pl/pgladki/faq/node105.html

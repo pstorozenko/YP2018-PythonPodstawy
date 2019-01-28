@@ -18,6 +18,6 @@ Napisz funkcję, która:
 12. `ile_jakich(s)`, która wypisze na ekran liczbę wielkich liter oraz liczbę małych liter w napisie `s`.
 13. `rysuj_trojkat_P(n)`, która wypisze na ekran pierwsze `n` wierszy trójkąta Pascala.
 14. `sito_erastotenesa(n)`, która zwróci listę wszystkich liczb pierwszych z zakresu od 2 do n.
-15. `bin_search(l, x)`, która zwróci indeks pod którym znajduje się `x` w liście `l` , lub -1 gdy nie występuje. Lista `l` jest posortowana.
+15. `bin_search(t, x)`, która zwróci indeks pod którym znajduje się `x` w liście `t` , lub -1 gdy nie występuje. Lista `t` jest posortowana.
 
 ![Trójkąt Pascala](pascal-traingle.png)
